@@ -1,1 +1,2 @@
-### by Nguyễn Trần Minh Khoa
+### bài 1 
+Nguyễn Trần Minh Khoa
